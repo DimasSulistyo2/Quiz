@@ -1,0 +1,440 @@
+[
+  {
+    "name": "Basic",
+    "id": "food",
+    "theme": "green",
+    "quizzes": [
+      {
+        "type": "true-false",
+        "question": "2 + 2 \u00d7 3 = 8",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "4 + 2 \u00f7 2 = 3",
+        "answer": false
+      },
+      {
+        "type": "fill-blank",
+        "question": "x\u00b2 - 4x + 4 = 0\nx =",
+        "answer": "2"
+      },
+      {
+        "type": "fill-blank",
+        "question": "8 \u00d7 4 \u2212 2 \u00f7 1 =",
+        "answer": "30"
+      },
+      {
+        "type": "fill-blank",
+        "question": "(5\u221a2 - 3)(5\u221a2 + 3) =",
+        "answer": "41"
+      },
+      {
+        "type": "fill-blank",
+        "question": "39\u00b2 - 38\u00b2 =",
+        "answer": "77"
+      },
+      {
+        "type": "picker",
+        "question": "9\u03c0 \u00b2 - (3\u03c0 - 2)(3\u03c0 + 2) =",
+        "min": 1,
+        "max": 10,
+        "answer": 4
+      },
+      {
+        "type": "picker",
+        "question": "14 \u00f7 2 - (2 \u00d7 3) =",
+        "min": 1,
+        "max": 10,
+        "answer": 1
+      },
+      {
+        "type": "fill-blank",
+        "question": "5 + a - b = 9\n2a + b = 17\na + b =",
+        "answer": "10"
+      },
+      {
+        "type": "fill-blank",
+        "question": "3 - a + b + 2c = 20\na + 2b - c = 2\n2a + 2b + c = 17\na + b + c =",
+        "answer": "12"
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  },
+  {
+    "name": "Numbers",
+    "id": "knowledge",
+    "theme": "yellow",
+    "quizzes": [
+      {
+        "type": "fill-blank",
+        "question": "1, 2, 4, 8, ...",
+        "answer": "16"
+      },
+      {
+        "type": "fill-blank",
+        "question": "1, 2, 3, 5, 8, 13, 21, ...",
+        "answer": "34"
+      },
+      {
+        "type": "fill-blank",
+        "question": "2, 4, 8, 32, ...",
+        "answer": "256"
+      },
+      {
+        "type": "fill-blank",
+        "question": "3, 1, 4, 2, ...",
+        "answer": "5"
+      },
+      {
+        "type": "fill-blank",
+        "question": "3, 9, 4, 16, ...",
+        "answer": "15"
+      },
+      {
+        "type": "picker",
+        "question": "5, 1, 7, 3, 21, ...",
+        "min": 0,
+        "max": 30,
+        "answer": 17
+      },
+      {
+        "type": "true-false",
+        "question": "5, a, 9, 7, 49, ...\na = 3",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "3, a, 6, 9, 13, 18, b, ...\na + b = 27",
+        "answer": false
+      },
+      {
+        "type": "picker",
+        "question": "4, 6, 3, 7, 2, ...",
+        "min": 0,
+        "max": 10,
+        "answer": 8
+      },
+      {
+        "type": "picker",
+        "question": "7, 6, 8, 7, 9, ...",
+        "min": 0,
+        "max": 10,
+        "answer": 8
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  },
+  {
+    "name": "Algebra",
+    "id": "history",
+    "theme": "blue",
+    "quizzes": [
+      {
+        "type": "fill-blank",
+        "question": "7 + a = 11\na =",
+        "answer": "4"
+      },
+      {
+        "type": "fill-blank",
+        "question": "9 - b = 2\nb =",
+        "answer": "7"
+      },
+      {
+        "type": "true-false",
+        "question": "9 + a \u00d7 b = 37\na + b = 11",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "3 - b = a + 2\na + b = 4",
+        "answer": false
+      },
+      {
+        "type": "fill-blank",
+        "question": "a + b = 3\n2a + 3b = 8\na =",
+        "answer": "1"
+      },
+      {
+        "type": "fill-blank",
+        "question": "a - b = 3\n5a + 2b = 43\nb =",
+        "answer": "4"
+      },
+      {
+        "type": "fill-blank",
+        "question": "a + b = 8\na - b = 2\n2a + b =",
+        "answer": "13"
+      },
+      {
+        "type": "picker",
+        "question": "a + 2b = 12\n2a - b = -1\nb =",
+        "min": 1,
+        "max": 10,
+        "answer": 5
+      },
+      {
+        "type": "fill-blank",
+        "question": "2a - 3 = 3b\n3a - 7 = 2b\na =",
+        "answer": "3"
+      },
+      {
+        "type": "fill-blank",
+        "question": "3a + 2 = 2b\n6a - 3 = 3b\nb =",
+        "answer": "7"
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  },
+  {
+    "name": "Exponent",
+    "id": "geography",
+    "theme": "red",
+    "quizzes": [
+      {
+        "type": "fill-blank",
+        "question": "3\u00b2 \u00d7 3\u00b2 =",
+        "answer": "81"
+      },
+      {
+        "type": "fill-blank",
+        "question": "(2\u00b2)\u00b2 - 2\u00b2 =",
+        "answer": "12"
+      },
+      {
+        "type": "fill-blank",
+        "question": "4\u00b3 - 3\u00b2 =",
+        "answer": "55"
+      },
+      {
+        "type": "picker",
+        "question": "(3\u00b3 - 2) \u00f7 5 - 2 =",
+        "min": 1,
+        "max": 10,
+        "answer": 3
+      },
+      {
+        "type": "picker",
+        "question": "2\u207f = 8\nn =",
+        "min": 1,
+        "max": 10,
+        "answer": 3
+      },
+      {
+        "type": "fill-blank",
+        "question": "(3\u00b3)\u207f = 27\nn =",
+        "answer": "1"
+      },
+      {
+        "type": "fill-blank",
+        "question": "\u00b3\u221aa\u00b2 = 4\na =",
+        "answer": "8"
+      },
+      {
+        "type": "fill-blank",
+        "question": "2\u207f\u207b\u00b3 - 3\u00b2 + 1 = 0\nn =",
+        "answer": "6"
+      },
+      {
+        "type": "fill-blank",
+        "question": "(3 \u00d7 2)\u00b2 =",
+        "answer": "36"
+      },
+      {
+        "type": "fill-blank",
+        "question": "3\u00b2\u207f - 2\u00b3\u207f = 49\nn =",
+        "answer": "2"
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  },
+  {
+    "name": "Number 2",
+    "id": "science",
+    "theme": "green",
+    "quizzes": [
+      {
+        "type": "fill-blank",
+        "question": "3, 5, 8, 12, 17, ...",
+        "answer": "23"
+      },
+      {
+        "type": "fill-blank",
+        "question": "5, 7, 4, 8, ...",
+        "answer": "3"
+      },
+      {
+        "type": "fill-blank",
+        "question": "2, 4, 12, 48, ...",
+        "answer": "240"
+      },
+      {
+        "type": "fill-blank",
+        "question": "5, 4, 7, 2, 9, ...",
+        "answer": "0"
+      },
+      {
+        "type": "fill-blank",
+        "question": "n(2n + 4) = 3n + 2n\u00b2 + 5\nn =",
+        "answer": "5"
+      },
+      {
+        "type": "fill-blank",
+        "question": "(n\u00b3 - n) + 3n - 2 = 10\nn =",
+        "answer": "2"
+      },
+      {
+        "type": "picker",
+        "question": "2n - (n + 3)\u00b2 = 7 - 12n\nn =",
+        "min": 1,
+        "max": 10,
+        "answer": 4
+      },
+      {
+        "type": "fill-blank",
+        "question": "4 - (n\u00b2 + 1) = 2n - n\u00b2 - 17\nn =",
+        "answer": "10"
+      },
+      {
+        "type": "fill-blank",
+        "question": "n\u00b2 + 2n = 6n\nn =",
+        "answer": "4"
+      },
+      {
+        "type": "fill-blank",
+        "question": "3 + n + n\u00b2 = 6n + 3\nn =",
+        "answer": "5"
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  },
+  {
+    "name": "Extra",
+    "id": "tvmovies",
+    "theme": "purple",
+    "quizzes": [
+      {
+        "type": "fill-blank",
+        "question": "n(n(3n - 5) + 2n) - 7 = n + 3\nn =",
+        "answer": "2"
+      },
+      {
+        "type": "fill-blank",
+        "question": "2n + (n - 8) = 3n - 8\nn =",
+        "answer": "8"
+      },
+      {
+        "type": "fill-blank",
+        "question": "5n + 2(n - 3) = 2n + 9\nn =",
+        "answer": "3"
+      },
+      {
+        "type": "fill-blank",
+        "question": "4n - 2 = 2n + 8\nn =",
+        "answer": "5"
+      },
+      {
+        "type": "fill-blank",
+        "question": "21 + n\u00b2 - (2n + 3) = n\u00b2 + 2n + 2\nn =",
+        "answer": "4"
+      },
+      {
+        "type": "fill-blank",
+        "question": "n\u00b2 + 2n + 1 = 4n + 1\nn =",
+        "answer": "2"
+      },
+      {
+        "type": "fill-blank",
+        "question": "n\u00b2 + 2(n - 2) = n\u00b2 + 2n\nn =",
+        "answer": "-2"
+      },
+      {
+        "type": "fill-blank",
+        "question": "7 + 3(n + 2) = 2n - 1\nn =",
+        "answer": "-14"
+      },
+      {
+        "type": "fill-blank",
+        "question": "5 + n -(1 - n\u00b2) = n\u00b2 + 2n - 4\nn =",
+        "answer": "8"
+      },
+      {
+        "type": "fill-blank",
+        "question": "n(n - 7) = (7 - n)(1 - n)\nn =",
+        "answer": "7"
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  }
+]
